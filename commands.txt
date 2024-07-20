@@ -1,0 +1,17 @@
+// git commands
+git init
+git branch -m main
+git add .
+git commit -m 'first commit with initial api'
+git remote add origin 'https://github.com/die711/fastapi-noted-api-sqlalchemy-2.0.git'
+git push origin -u main
+git pull
+
+
+//pip
+pip install sqlalchemy
+pip install asyncpg
+pip freeze > requirements.txt
+
+//video
+https://www.youtube.com/watch?v=nC9ob8xM3AM&t=2698s
